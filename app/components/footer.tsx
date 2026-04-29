@@ -31,7 +31,7 @@ export default function Footer() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
             <Image
-              src="/dp.png"
+              src="/images/dp.png"
               alt="Ayesha Iqbal"
               width={46}
               height={46}

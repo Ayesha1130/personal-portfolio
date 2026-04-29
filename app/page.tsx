@@ -95,7 +95,7 @@ export default function Home() {
       <section className="py-24 px-6 md:px-[clamp(20px,6vw,110px)] bg-bg">
         <div className="max-w-5xl mx-auto flex flex-col md:flex-row gap-12 items-center">
           <Image
-            src="/dp.png"
+            src="/images/dp.png"
             alt="Ayesha Iqbal"
             width={160}
             height={160}
