@@ -30,10 +30,10 @@ export default function ContactPage() {
           <div>
             <h3 className="text-lg font-semibold text-primary mb-2">Email</h3>
             <a
-              href="mailto:ayeshaiqbal771@gmail.com"
+              href="mailto:ayeshaiqbal.dev@gmail.com"
               className="text-muted hover:text-accent transition-colors"
             >
-              ayeshaiqbal771@gmail.com
+              ayeshaiqbal.dev@gmail.com
             </a>
           </div>
 
@@ -63,7 +63,7 @@ export default function ContactPage() {
               </a>
 
               <a
-                href="https://www.facebook.com/profile.php?id=61557002344632"
+                href="https://www.facebook.com/profile.php?id=61592748684406"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 text-muted hover:text-accent transition-colors"

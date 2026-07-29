@@ -124,7 +124,7 @@ export default function HeroSection() {
         <div className="flex-shrink-0">
           <div className="relative w-72 h-80 lg:w-80 lg:h-96 bg-surface border border-border rounded-[28px] overflow-hidden shadow-2xl hover:scale-[1.02] transition-all duration-500">
             <Image
-              src="/images/dp.png"
+              src="/images/dp.jpeg"
               alt="Ayesha Iqbal"
               fill
               unoptimized

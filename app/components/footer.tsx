@@ -18,10 +18,10 @@ export default function Footer() {
           </p>
 
           <Link
-            href="mailto:ayeshaiqbal771@gmail.com"
+            href="mailto:ayeshaiqbal.dev@gmail.com"
             className="relative z-10 inline-block mt-4 bg-primary text-bg py-3 px-7 rounded-xl font-semibold hover:bg-accent hover:scale-105 transition-all duration-300 shadow-md"
           >
-            ayeshaiqbal771@gmail.com
+            ayeshaiqbal.dev@gmail.com
           </Link>
         </div>
 
@@ -31,7 +31,7 @@ export default function Footer() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
             <Image
-              src="/images/dp.png"
+              src="/images/dp.jpeg"
               alt="Ayesha Iqbal"
               width={46}
               height={46}
@@ -70,7 +70,7 @@ export default function Footer() {
           <div className="flex gap-4 text-xl">
 
             <Link
-              href="https://www.facebook.com/profile.php?id=61557002344632"
+              href="https://www.facebook.com/profile.php?id=61592748684406"
               target="_blank"
               aria-label="Facebook"
               className="w-10 h-10 rounded-full bg-surface border border-border flex items-center justify-center text-muted hover:text-white hover:bg-accent transition-all duration-300"
